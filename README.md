@@ -3,7 +3,7 @@
 Instalar Python y Django
 
 ## ¿Como correr el programa?
-Descomprimir el zip en el escritorio
+Descomprimir el zip: https://drive.google.com/drive/folders/1E7vQTLMt6vdqnTZHFcg8i8CuOQIfEjDL?usp=sharing
 
 Desde la consola, habilitar las variables de entorno, es decir, escribir env\Scripts\activate.bat
 
@@ -18,5 +18,3 @@ Pueden dar click al link generado desde la consola o bien pueden escribir en su 
 Para cerrar el servidor, desde consola presionan ctrol + C
 
 <img width="301" alt="image" src="https://github.com/user-attachments/assets/105d4d82-cda6-4c27-899f-47c6af340a5d">
-
-Link de descarga: 
