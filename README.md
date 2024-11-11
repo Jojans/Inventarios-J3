@@ -6,6 +6,7 @@ Desde la consola, habilitar las variables de entorno, es decir, escribir env\Scr
 Luego, dirigirse dentro de la carpeta J3, es decir cd J3\
 
 Por ultimo, correr el servidor mediante python manage.py runserver
+
 <img width="409" alt="image" src="https://github.com/user-attachments/assets/2a46a851-89c5-46d2-890b-a8391bc87346">
 
 Pueden dar click al link generado desde la consola o bien pueden escribir en su buscador de confianza localhost:8000
