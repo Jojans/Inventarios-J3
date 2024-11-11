@@ -3,7 +3,7 @@
 Instalar Python y Django
 
 ## ¿Como correr el programa?
-Descomprimir el zip: https://drive.google.com/drive/folders/1E7vQTLMt6vdqnTZHFcg8i8CuOQIfEjDL?usp=sharing
+Descomprimir el zip (Actualmente v1.0): https://drive.google.com/drive/folders/1E7vQTLMt6vdqnTZHFcg8i8CuOQIfEjDL?usp=sharing
 
 Desde la consola, habilitar las variables de entorno, es decir, escribir env\Scripts\activate.bat
 
