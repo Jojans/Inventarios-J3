@@ -1,5 +1,7 @@
 # Inventarios-J3
 
+Instalar Python y Django
+
 ## ¿Como correr el programa?
 Desde la consola, habilitar las variables de entorno, es decir, escribir env\Scripts\activate.bat
 
