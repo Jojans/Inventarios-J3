@@ -1,6 +1,6 @@
 # Inventarios-J3
 
-¿Como correr el programa?
+## ¿Como correr el programa?
 Desde la consola, habilitar las variables de entorno, es decir, escribir env\Scripts\activate.bat
 luego, dirigirse dentro de la carpeta J3, es decir cd J3\
 -Por ultimo, correr el servidor mediante python manage.py runserver
