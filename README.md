@@ -1,15 +1,14 @@
 # Inventarios-J3
 
-Instalar Python y Django
-
 ## ¿Como correr el programa?
-Descomprimir el zip (Actualmente v1.0): https://drive.google.com/drive/folders/1E7vQTLMt6vdqnTZHFcg8i8CuOQIfEjDL?usp=sharing
+https://drive.google.com/drive/folders/1E7vQTLMt6vdqnTZHFcg8i8CuOQIfEjDL?usp=sharing
 
-Desde la consola, habilitar las variables de entorno, es decir, escribir python -m venv env y luego env\Scripts\activate.bat
+Habilitar las variables de entorno: python -m venv env y luego 
+Ejectuar las variblas de entorno: env\Scripts\activate.bat
 
-Luego, dirigirse dentro de la carpeta J3, es decir cd J3\
-
-Por ultimo, correr el servidor mediante python manage.py runserver
+Ejecutar el servidor: 
+cd J3\
+python manage.py runserver
 
 <img width="409" alt="image" src="https://github.com/user-attachments/assets/2a46a851-89c5-46d2-890b-a8391bc87346">
 
