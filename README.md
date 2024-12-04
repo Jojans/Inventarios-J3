@@ -4,6 +4,8 @@
 https://drive.google.com/drive/folders/1E7vQTLMt6vdqnTZHFcg8i8CuOQIfEjDL?usp=sharing
 
 ### Ejectuar las variables de entorno: 
+python -m venv env
+
 env\Scripts\activate.bat
 
 ### Variables de entorno faltantes:
