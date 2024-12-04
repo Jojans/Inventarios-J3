@@ -3,11 +3,13 @@
 ## ¿Como correr el programa?
 https://drive.google.com/drive/folders/1E7vQTLMt6vdqnTZHFcg8i8CuOQIfEjDL?usp=sharing
 
-### Habilitar las variables de entorno: 
-python -m venv env
-
-### Ejectuar las variblas de entorno: 
+### Ejectuar las variables de entorno: 
 env\Scripts\activate.bat
+
+### Variables de entorno faltantes:
+pip install django-widget-tweaks
+
+python -m pip install requests
 
 ### Ejecutar el servidor: 
 cd J3
