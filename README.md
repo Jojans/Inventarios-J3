@@ -11,6 +11,8 @@ pip install django-widget-tweaks
 
 python -m pip install requests
 
+python -m pip install -U matplotlib
+
 ### Ejecutar el servidor: 
 cd J3
 
